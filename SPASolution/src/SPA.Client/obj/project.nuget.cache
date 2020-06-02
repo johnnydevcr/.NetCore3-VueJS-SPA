@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PtiLmhj1R9ASTjBSJHq0o57XkYp+OstrDvsDXyhZ95wPGbQ88VdixVTcuz9GSCVIm5UwjYBXqhtqH1dfIKR1RQ==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\VueJS-SPA\\.NetCore3-VueJS-SPA\\SPASolution\\src\\SPA.Client\\SPA.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jbarr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\jbarr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
