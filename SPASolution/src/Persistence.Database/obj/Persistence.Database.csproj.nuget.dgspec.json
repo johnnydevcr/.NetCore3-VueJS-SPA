@@ -4,14 +4,14 @@
     "D:\\projects\\VueJS-SPA\\.NetCore3-VueJS-SPA\\SPASolution\\src\\Persistence.Database\\Persistence.Database.csproj": {}
   },
   "projects": {
-    "D:\\projects\\VueJS-SPA\\.NetCore3-VueJS-SPA\\SPASolution\\src\\Persistence.Database\\Persistence.Database.csproj": {
+    "D:\\projects\\VueJS-SPA\\.NetCore3-VueJS-SPA\\SPASolution\\src\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\VueJS-SPA\\.NetCore3-VueJS-SPA\\SPASolution\\src\\Persistence.Database\\Persistence.Database.csproj",
-        "projectName": "Persistence.Database",
-        "projectPath": "D:\\projects\\VueJS-SPA\\.NetCore3-VueJS-SPA\\SPASolution\\src\\Persistence.Database\\Persistence.Database.csproj",
+        "projectUniqueName": "D:\\projects\\VueJS-SPA\\.NetCore3-VueJS-SPA\\SPASolution\\src\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "D:\\projects\\VueJS-SPA\\.NetCore3-VueJS-SPA\\SPASolution\\src\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\jbarr\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\VueJS-SPA\\.NetCore3-VueJS-SPA\\SPASolution\\src\\Persistence.Database\\obj\\",
+        "outputPath": "D:\\projects\\VueJS-SPA\\.NetCore3-VueJS-SPA\\SPASolution\\src\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -42,6 +42,73 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projects\\VueJS-SPA\\.NetCore3-VueJS-SPA\\SPASolution\\src\\Persistence.Database\\Persistence.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\VueJS-SPA\\.NetCore3-VueJS-SPA\\SPASolution\\src\\Persistence.Database\\Persistence.Database.csproj",
+        "projectName": "Persistence.Database",
+        "projectPath": "D:\\projects\\VueJS-SPA\\.NetCore3-VueJS-SPA\\SPASolution\\src\\Persistence.Database\\Persistence.Database.csproj",
+        "packagesPath": "C:\\Users\\jbarr\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\VueJS-SPA\\.NetCore3-VueJS-SPA\\SPASolution\\src\\Persistence.Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jbarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\projects\\VueJS-SPA\\.NetCore3-VueJS-SPA\\SPASolution\\src\\Model\\Model.csproj": {
+                "projectPath": "D:\\projects\\VueJS-SPA\\.NetCore3-VueJS-SPA\\SPASolution\\src\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

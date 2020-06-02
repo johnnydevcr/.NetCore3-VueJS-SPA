@@ -1,0 +1,5 @@
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Persistence.Database\bin\Debug\netcoreapp3.1\Persistence.Database.deps.json
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Persistence.Database\bin\Debug\netcoreapp3.1\Persistence.Database.dll
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Persistence.Database\obj\Debug\netcoreapp3.1\Persistence.Database.csprojAssemblyReference.cache
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Persistence.Database\obj\Debug\netcoreapp3.1\Persistence.Database.AssemblyInfoInputs.cache
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Persistence.Database\obj\Debug\netcoreapp3.1\Persistence.Database.AssemblyInfo.cs
