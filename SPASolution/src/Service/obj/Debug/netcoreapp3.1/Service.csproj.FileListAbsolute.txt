@@ -1,0 +1,16 @@
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Service\obj\Debug\netcoreapp3.1\Service.pdb
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Service\bin\Debug\netcoreapp3.1\Model.dll
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Service\bin\Debug\netcoreapp3.1\Model.DTOs.dll
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Service\bin\Debug\netcoreapp3.1\Persistence.Database.dll
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Service\bin\Debug\netcoreapp3.1\Model.DTOs.pdb
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Service\bin\Debug\netcoreapp3.1\Persistence.Database.pdb
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Service\bin\Debug\netcoreapp3.1\Model.pdb
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete

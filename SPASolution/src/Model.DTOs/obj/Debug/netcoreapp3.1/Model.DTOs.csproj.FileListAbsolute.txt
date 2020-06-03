@@ -1,0 +1,9 @@
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Model.DTOs\bin\Debug\netcoreapp3.1\Model.DTOs.deps.json
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Model.DTOs\bin\Debug\netcoreapp3.1\Model.DTOs.dll
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Model.DTOs\bin\Debug\netcoreapp3.1\Model.DTOs.pdb
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Model.DTOs\obj\Debug\netcoreapp3.1\Model.DTOs.csprojAssemblyReference.cache
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Model.DTOs\obj\Debug\netcoreapp3.1\Model.DTOs.csproj.CoreCompileInputs.cache
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Model.DTOs\obj\Debug\netcoreapp3.1\Model.DTOs.AssemblyInfoInputs.cache
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Model.DTOs\obj\Debug\netcoreapp3.1\Model.DTOs.AssemblyInfo.cs
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Model.DTOs\obj\Debug\netcoreapp3.1\Model.DTOs.dll
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Model.DTOs\obj\Debug\netcoreapp3.1\Model.DTOs.pdb

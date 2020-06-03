@@ -3,3 +3,10 @@ D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Persistence.Database\b
 D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Persistence.Database\obj\Debug\netcoreapp3.1\Persistence.Database.csprojAssemblyReference.cache
 D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Persistence.Database\obj\Debug\netcoreapp3.1\Persistence.Database.AssemblyInfoInputs.cache
 D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Persistence.Database\obj\Debug\netcoreapp3.1\Persistence.Database.AssemblyInfo.cs
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Persistence.Database\bin\Debug\netcoreapp3.1\Persistence.Database.pdb
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Persistence.Database\bin\Debug\netcoreapp3.1\Model.dll
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Persistence.Database\bin\Debug\netcoreapp3.1\Model.pdb
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Persistence.Database\obj\Debug\netcoreapp3.1\Persistence.Database.csproj.CoreCompileInputs.cache
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Persistence.Database\obj\Debug\netcoreapp3.1\Persistence.Database.csproj.CopyComplete
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Persistence.Database\obj\Debug\netcoreapp3.1\Persistence.Database.dll
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Persistence.Database\obj\Debug\netcoreapp3.1\Persistence.Database.pdb
