@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Model.DTOs;
@@ -10,6 +11,7 @@ using Service.Commons;
 
 namespace Core.Api.Controllers
 {
+    [Authorize(Roles = "Admin,Seller")]
     [ApiController]
     [Route("[controller]")]
     public class OrdersController : ControllerBase

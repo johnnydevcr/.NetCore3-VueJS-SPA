@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Model.DTOs;
@@ -10,6 +12,7 @@ using Service.Commons;
 
 namespace Core.Api.Controllers
 {
+    [Authorize(Roles = "Admin")]
     [ApiController]
     [Route("[controller]")]
     public class ClientsController : ControllerBase
@@ -41,7 +44,8 @@ namespace Core.Api.Controllers
         }
         [HttpGet("{id}")]
         public async Task<ActionResult<ClientDTO>> Get(int id) {
-            return await _clientService.Get(id);
+            
+            return  await _clientService.Get(id);
         }
         [HttpGet]
         public async Task<ActionResult<DataCollection<ClientDTO>>> GetAll(int page, int take = 20)
