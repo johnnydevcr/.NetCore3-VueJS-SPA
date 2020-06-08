@@ -2,8 +2,8 @@ D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Model\bin\Debug\netcor
 D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Model\bin\Debug\netcoreapp3.1\Model.dll
 D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Model\bin\Debug\netcoreapp3.1\Model.pdb
 D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
-D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
 D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
 D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
 D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Model\obj\Debug\netcoreapp3.1\Model.dll
 D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Model\obj\Debug\netcoreapp3.1\Model.pdb
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache

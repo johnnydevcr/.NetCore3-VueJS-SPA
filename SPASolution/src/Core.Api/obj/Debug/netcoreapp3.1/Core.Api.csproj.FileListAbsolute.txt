@@ -51,8 +51,6 @@ D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Core.Api\bin\Debug\net
 D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Core.Api\bin\Debug\netcoreapp3.1\Core.Api.dll
 D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Core.Api\bin\Debug\netcoreapp3.1\Core.Api.pdb
 D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Core.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Core.Api\obj\Debug\netcoreapp3.1\Core.Api.csproj.CoreCompileInputs.cache
-D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Core.Api\obj\Debug\netcoreapp3.1\Core.Api.MvcApplicationPartsAssemblyInfo.cache
 D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Core.Api\obj\Debug\netcoreapp3.1\Core.Api.dll
 D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Core.Api\obj\Debug\netcoreapp3.1\Core.Api.pdb
 D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Core.Api\obj\Debug\netcoreapp3.1\Core.Api.genruntimeconfig.cache
@@ -60,3 +58,12 @@ D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Core.Api\bin\Debug\net
 D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Core.Api\bin\Debug\netcoreapp3.1\Service.dll
 D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Core.Api\bin\Debug\netcoreapp3.1\Service.pdb
 D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Core.Api\bin\Debug\netcoreapp3.1\Model.DTOs.pdb
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Core.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Core.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Core.Api\obj\Debug\netcoreapp3.1\Core.Api.csproj.CoreCompileInputs.cache
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Core.Api\obj\Debug\netcoreapp3.1\Core.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Core.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Core.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Core.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Core.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\projects\VueJS-SPA\.NetCore3-VueJS-SPA\SPASolution\src\Core.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
